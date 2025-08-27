@@ -18,8 +18,8 @@ This chatbot doesn’t use any backend or AI model — it replies with predefine
 ## 🛠️ Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-chatbot.git
-   cd simple-chatbot
+   git clone https://github.com/your-username/chatbot-UI.git
+   cd chatbot-UI
 ````
 
 2. Open the project:
